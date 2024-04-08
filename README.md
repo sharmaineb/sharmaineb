@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! Computer science student still trying to figure out what I aspire to be. 💫</h3>
+<h3 align="center">Hi 👋! Computer science student still trying to figure out what to do with her life. 💫</h3>
 
 ###
 

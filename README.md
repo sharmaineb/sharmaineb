@@ -1,6 +1,8 @@
+<div align="center"></div>
 <h1 align="center">Hi 👋, I'm Shar</h1>
 <h3 align="center">Computer science student still trying to figure out what to do with my life. 💫</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmaineb&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaineb" /> </p>
+</div>
 
 <div> <a href="https://github.com/sharmaineb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>

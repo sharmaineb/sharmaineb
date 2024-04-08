@@ -2,6 +2,8 @@
 <h3 align="center">Computer science student still trying to figure out what to do with my life. 💫</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharmaineb&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaineb" /> </p>
 
+<img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=790b7611krtr1p1aim6bosqyzcpp0u3c6nhldeq8y1cuoma9&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="gif" align="center" width="40" height="40"/>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>

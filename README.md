@@ -2,8 +2,7 @@
 <h3 align="center">Computer science student still trying to figure out what to do with my life. 💫</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sharmaineb&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaineb" /> </p>
 
-<div> <a href="https://github.com/sharmaineb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>

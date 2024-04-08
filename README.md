@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shar</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sharmaineb&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaineb" /> </p>
 
 <div align="center">
 <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=790b7611krtr1p1aim6bosqyzcpp0u3c6nhldeq8y1cuoma9&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="gif" width="200" height="200"/>
@@ -28,3 +27,4 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=sharmaineb&theme=tokyo-night"/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sharmaineb&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaineb" /> </p>
